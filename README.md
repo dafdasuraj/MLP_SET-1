@@ -1,1 +1,2 @@
-# MLP_SET-1
+# MLP_SE
+machine learning practice set-1
